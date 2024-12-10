@@ -20,17 +20,21 @@ Setup Instructions
 To ensure all dependencies are isolated, create a virtual environment:
 
 python -m venv venv
+
 2. Activating the Virtual Environment
 Activate the virtual environment with the following command:
 
 On Mac/Linux:
 source ./venv/bin/activate
+
 On Windows:
 .\venv\Scripts\activate
+
 3. Installing Required Libraries
 Install the necessary libraries from the requirements.txt file:
 
 pip install -r requirements.txt
+
 Running the Project
 
 1. Exploratory Data Analysis and Visualizations
